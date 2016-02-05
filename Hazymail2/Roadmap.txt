@@ -1,0 +1,7 @@
+﻿- Pouvoir spécifier un serveur SMTP avec login et mot de passe par authentification.
+- Génerer un rapport en texte tabulé pour savoir les mails qui ont put être envoyés
+- Gestion des emails au format HTML
+- zipper toutes les pièces jointes.
+- Afficher toutes les pages de codes disponibles
+gestion multi plateform
+ - envoyer des messages chiffrés a l'aide d'un certificat.

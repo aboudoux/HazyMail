@@ -1,0 +1,5 @@
+D:\Dropbox\code\C#\Hazymail2\Hazymail2\bin\Debug\Hazymail.NET.exe.config
+D:\Dropbox\code\C#\Hazymail2\Hazymail2\bin\Debug\Hazymail.NET.exe
+D:\Dropbox\code\C#\Hazymail2\Hazymail2\bin\Debug\Hazymail.NET.pdb
+D:\Dropbox\code\C#\Hazymail2\Hazymail2\obj\Debug\Hazymail.NET.exe
+D:\Dropbox\code\C#\Hazymail2\Hazymail2\obj\Debug\Hazymail.NET.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\bin\Debug\HazymailTest.dll
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\bin\Debug\HazymailTest.pdb
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\obj\Debug\HazymailTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\obj\Debug\HazymailTest.dll
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\obj\Debug\HazymailTest.pdb
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\bin\Debug\Hazymail.exe
+D:\Dropbox\code\C#\Hazymail2\HazymailTest\bin\Debug\Hazymail.pdb
